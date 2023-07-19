@@ -7,6 +7,22 @@ body {
   padding: 20px;
 }
 
+button, input {
+  background-color: #f7f7f7;
+  border: 1px solid #e7e7e7;
+  border-radius: 7px;
+  font-weight: 300;
+  cursor: pointer;
+  padding: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.add-form button {
+  text-transform: uppercase;
+  background-color: #769ABE;
+}
+
 .flashcards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
