@@ -31,5 +31,6 @@ cd word-flash
 ## Screenshots
 
 Screenshot of the Word Flash App:
+<img width="1111" alt="Screenshot 2024-11-12 at 8 48 31 PM" src="https://github.com/user-attachments/assets/3020ebcf-0fa8-4aa5-89ca-2d228a73c3b7">
 
 
